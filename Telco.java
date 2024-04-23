@@ -11,7 +11,6 @@ public class Telco implements TelcoSubscription {
         this.unliCallText = unliCallText;
     }
 
-    // Getters
     public String getTelcoName() {
         return telcoName;
     }
