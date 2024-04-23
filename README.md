@@ -31,3 +31,5 @@ Test your codes before the given client program:
 
 
 # UML Class Diagram
+<img width="631" alt="Screenshot 2024-04-23 at 2 23 04 PM" src="https://github.com/LanceLetran/VisitorPattern/assets/142746735/4ec22f97-c9bc-483e-8509-c77a88f7932f">
+
